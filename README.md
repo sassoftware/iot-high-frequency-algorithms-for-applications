@@ -28,7 +28,7 @@ List of required software offered as part of [**SAS Analytics for IoT**](https:/
 *  **Support Vector Data Description (SVDD)**
     * [Documentation](https://go.documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=casml&docsetTarget=casml_svdd_overview.htm&locale=en)
     * *GitHub Repositories to try*
-        *  [Anomaly Detection in Air Handling Unit](https://gitlab.sas.com/IOT/accelerators/anomaly-detection-in-ahu)
+        *  [Anomaly Detection in Air Handling Unit](https://github.com/sassoftware/iot-anomaly-detection-hvac)
 *  **Robust Principal Component Analysis (RPCA)**
     * [Documentation](https://go.documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=casml&docsetTarget=casml_rpca_overview.htm&locale=en) 
 *  **Kernel Principal Component Analysis (KPCA**)
