@@ -23,8 +23,8 @@ List of required software offered as part of [**SAS Analytics for IoT**](https:/
     * [Documentation](https://go.documentation.sas.com/?cdcId=espcdc&cdcVersion=6.2&docsetId=espan&docsetTarget=n034ho5r1hbu2rn18m68ywshnuq5.htm&locale=en#p0dv9t241gp1ptn13vo75aol2d1b)
     * [Best Practices](docs/sst.md)  
     * *GitHub Repositories to try*
-        *  [Anomaly Detection in Floodlights for Smart Campus](https://gitlab.sas.com/IOT/accelerators/anomaly-detection-in-floodlights-for-smart-campus)
-        *  [Detecting Degradation in Wind Turbines](https://gitlab.sas.com/IOT/accelerators/detecting-degradation-in-wind-turbine)
+        *  [Anomaly Detection in Floodlights for Smart Campus](https://github.com/sassoftware/iot-anomaly-detection-floodlights)
+        *  [Detecting Degradation in Wind Turbines](https://github.com/sassoftware/iot-detecting-degradation-wind-turbine)
 *  **Support Vector Data Description (SVDD)**
     * [Documentation](https://go.documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.5&docsetId=casml&docsetTarget=casml_svdd_overview.htm&locale=en)
     * *GitHub Repositories to try*
