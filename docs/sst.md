@@ -6,7 +6,7 @@ This approach converts a set of correlated variables to a set of linearly uncorr
 We can use SST to detect outliers by tracking angle changes between principal components or by using principal component distances away from the mean.
 
 It can be used for: 
-*  **Anomaly Detection**: Large angle change between window <img src="images/a1.PNG" height="25" >  and <img src="images/a2.PNG" height="20" > with window size <img src="images/a3.PNG" height="25" > implies there’s an anomaly on observations leaving or entering the current window
+*  **Anomaly Detection**: Large angle change between window <img src="../images/a1.PNG" height="25" >  and <img src="../images/a2.PNG" height="20" > with window size <img src="../images/a3.PNG" height="25" > implies there’s an anomaly on observations leaving or entering the current window
 *  **Degradation Detection**: Angles for a series of windows change, gradually increasing or decreasing can also detect degradation over time  
 
 ## Pre-Requisites & Best Practices
@@ -41,7 +41,7 @@ The output of SST consists of the following variables:
 
 ***Figure 2: Plot of PC Absolute Angle over sliding windows***
 
-<img src="..images/result3.png" width=750>
+<img src="../images/result3.png" width=750>
 
 *See [Detecting degradation in Wind Turbines](https://github.com/sassoftware/iot-detecting-degradation-wind-turbine) for more details.*
 
