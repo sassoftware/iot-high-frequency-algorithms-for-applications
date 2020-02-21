@@ -22,7 +22,7 @@ It can be used for:
 *  Forget factor based SST is a fast algorithm using a power-based method. It requires two forget factors (mean and covariance). 
 *  Window based SST performs principal component analysis (PCA) on sliding windows of size <img src="images/a3.PNG" height="25" > and allows for gradual change in trend over time. This method can easily manage the parameter tuning for streaming data to perform streaming analytics. 
 
-![pic2](images/pic2.PNG)
+![pic2](../images/pic2.PNG)
 
 See [link](https://go.documentation.sas.com/?cdcId=espcdc&cdcVersion=6.1&docsetId=espan&docsetTarget=p0dv9t241gp1ptn13vo75aol2d1b.htm&locale=en) for more details on parameters.
 
@@ -35,25 +35,25 @@ The output of SST consists of the following variables:
 *  
 ***Figure 1: Plot of PC Angle Change over sliding windows***
 
-<img src="images/result2.png" width=750>
+<img src="../images/result2.png" width=750>
 
-*See [Anomaly detection in floodlights for Smart Campus](https://gitlab.sas.com/IOT/accelerators/anomaly-detection-in-floodlights-for-smart-campus/tree/master) for more details.*
+*See [Anomaly detection in floodlights for Smart Campus](https://github.com/sassoftware/iot-anomaly-detection-floodlights) for more details.*
 
 ***Figure 2: Plot of PC Absolute Angle over sliding windows***
 
-<img src="images/result3.png" width=750>
+<img src="..images/result3.png" width=750>
 
-*See [Detecting degradation in Wind Turbines](https://gitlab.sas.com/IOT/accelerators/detecting-degradation-in-wind-turbine) for more details.*
+*See [Detecting degradation in Wind Turbines](https://github.com/sassoftware/iot-detecting-degradation-wind-turbine) for more details.*
 
 ***Figure 3: Plot of First Principal Component over sliding windows***
 
-<img src="images/result1.png" width=750>
+<img src="../images/result1.png" width=750>
 
-*See [Anomaly detection in floodlights for Smart Campus](https://gitlab.sas.com/IOT/accelerators/anomaly-detection-in-floodlights-for-smart-campus/tree/master) for more details.*
+*See [Anomaly detection in floodlights for Smart Campus](https://github.com/sassoftware/iot-anomaly-detection-floodlights) for more details.*
 
 ---
 **Note**: Subspace Tracking ESP plugin and corresponding batch processing mapping
 
-<img src="images/pic4.png" width=700>
+<img src="../images/pic4.png" width=700>
 
 SST can also be run using Proc MWPCA using [SAS Visual Data Mining and Machine Learning](https://go.documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.4&docsetId=allprodsproc&docsetTarget=p1o1v16by0iotvn10m0jzzv9i3y8.htm&locale=en#p1wq8tbwge4vrxn1r169ruvtze1a) or with Proc TSMODEL using [SAS Visual Forecasting](https://go.documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.4&docsetId=castsp&docsetTarget=castsp_sst_toc.htm&locale=en)
